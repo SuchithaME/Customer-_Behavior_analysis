@@ -1,4 +1,4 @@
-Customer Behavior Analysis | Data Analytics Project
+Customer Behavior Analysis Data Analytics Project
 Overview:
 This project showcases an end-to-end data analytics pipeline focused on customer behavior analysis. It demonstrates hands-on experience in data cleaning, exploratory data analysis (EDA), SQL querying, data visualization, and business reporting using industry-standard tools.
 The project is designed to highlight job-ready data analyst skills and practical problem-solving abilities.
@@ -10,13 +10,16 @@ Cleaned and transformed for analytical use
 Domain: Customer / Business Analytics
 
 Tools & Technologies:
+
 Programming & Analysis
 1.Python
 2.Pandas, NumPy
 3.Matplotlib, Seaborn
+
 Databases & SQL
 1.PostgreSQL / MySQL / SQL Server
 2.SQL queries (SELECT, JOIN, GROUP BY, WHERE, CTEs)
+
 Visualization & Reporting
 1.Power BI (Interactive Dashboards)
 2.Analytical Report (Documentation)
